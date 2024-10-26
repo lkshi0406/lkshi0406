@@ -11,7 +11,7 @@
 </h1>
 
 ## 🌟 About Me
-🌸 I’m a passionate coder with a love for music and a deep appreciation for nature. Always eager to learn and grow through collaboration.<br><br>💡 Looking to collaborate on projects that challenge my skills and allow me to connect with like-minded individuals. Whether it's software development, open-source contributions, or tech solutions, I’m all in!<br><br>📫 Reach me via LinkedIn or email at your-lvamalik@gitam.in<br><br>😄 Pronouns: She/Her<br><br>⚡ Fun fact: Every hike in nature inspires new ideas for my work. Let's create something amazing together!
+🌸 I’m a passionate coder with a love for music and a deep appreciation for nature. Always eager to learn and grow through collaboration.<br><br>💡 Looking to collaborate on projects that challenge my skills and allow me to connect with like-minded individuals. Whether it's software development, open-source contributions, or tech solutions, I’m all in!<br><br>📫 Reach me via LinkedIn or email at your-lvallmik@gitam.in<br><br>😄 Pronouns: She/Her<br><br>⚡ Fun fact: Every hike in nature inspires new ideas for my work. Let's create something amazing together!
 
 ---
 
