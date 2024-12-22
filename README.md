@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Cookie&size=45&center=true&vCenter=true&width=800&height=90&duration=2000&pause=1200&color=0000FF&background=00000000&lines=Lakshmi+Srujana;Coding+Enthusiast+🌸;Nature+Lover+and+Innovator+💡"
+    src="https://readme-typing-svg.herokuapp.com/?font=Cookie&size=45&center=true&vCenter=true&width=800&height=90&duration=2000&pause=1200&color=FF69B4&background=00000000&lines=Lakshmi+Srujana;Coding+Enthusiast+🌸;Nature+Lover+and+Innovator+💡"
     alt="Interactive Typing SVG"
     style="max-width: 100%; height: auto;"
   />
